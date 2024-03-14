@@ -1,3 +1,4 @@
+# some comment
 def sum_of_even_numbers(lst):
     current_sum = 0
     for num in lst:
